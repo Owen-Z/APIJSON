@@ -18,7 +18,7 @@ public class Log {
 	 */
 	public static void d(String TAG, String msg) {
 		if (DEBUG) {
-			System.err.println(TAG + ".DEBUG: " + msg);
+			System.err.println(TAG + ".DEBUG:  " + msg);
 		}
 	}
 
